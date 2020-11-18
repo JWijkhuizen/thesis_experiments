@@ -4,8 +4,19 @@ This repository containts the files to conduct the final experiments for my thes
 
 ### Installing
 
+```
+thesis_experiments.rosinstall
+```
+This rosinstall file can be used to clone all the other required repositories. The correct branches are selected. If something is not right: always use the nav_quality branch if this one exists.
 
+The boxer is the robot that is used.
+TODO: Installing instructions need to be placed here.
 
+The following packages are needed:
+```
+sudo apt install ros-melodic-dwa-local-planner ros-melodic-gmapping ros-melodic-teb-local-planner
+sudo apt install ros-melodic-robot-localization ros-melodic-twist-mux ros-melodic-joy ros-melodic-interactive-marker-twist-server ros-melodic-teleop-twist-joy
+```
 
 ## Run simulation
 

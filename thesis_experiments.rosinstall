@@ -1,0 +1,42 @@
+- git:
+    local-name: metacontrol_sim
+    uri: https://github.com/JWijkhuizen/metacontrol_sim
+    version: nav_quality
+- git:
+    local-name: metacontrol_experiments
+    uri: https://github.com/JWijkhuizen/metacontrol_experiments
+    version: nav_quality
+- git:
+    local-name: metacontrol_nav
+    uri: https://github.com/rosin-project/metacontrol_nav
+- git:
+    local-name: metacontrol_msgs
+    uri: https://github.com/JWijkhuizen/metacontrol_msgs
+    version: nav_quality
+- git:
+    local-name: rosgraph_monitor
+    uri: https://github.com/JWijkhuizen/rosgraph_monitor
+    version: nav_quality
+- git:
+    local-name: ros_graph_parser
+    uri: https://github.com/ipa-nhg/ros_graph_parser
+    version: SoSymPaper
+- git:
+    local-name: metacontrol_move_base_configurations
+    uri: https://github.com/JWijkhuizen/metacontrol_move_base_configurations
+    version: nav_quality
+- git:
+    local-name: mros1_reasoner
+    uri: https://github.com/JWijkhuizen/mc_mros_reasoner
+    version: nav_quality
+- git:
+    local-name: mc_mdl_tomasys
+    uri: https://github.com/tud-cor/mc_mdl_tomasys.git
+    version: v0.1
+- git:
+    local-name: mros_quality_models
+    uri: https://github.com/JWijkhuizen/mros_quality_models
+- git:
+    local-name: ahxl_gazebo
+    uri: https://gitlab.tudelft.nl/airlab-delft/msc_projects/msc_jasper_wijkhuizen/ahxl_gazebo/-/tree/master
+    
